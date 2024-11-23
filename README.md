@@ -1,2 +1,4 @@
-# dietracker-webapp
-Diet Tracker Application A simple web app to help users log their daily meals and track calorie intake. Built with HTML, CSS, and JavaScript, it allows users to set daily calorie goals, input nutritional data, and save entries using localStorage. Ideal for those managing weight or maintaining a healthy diet.
+# dietracker-webpack
+Calorie and Workout tracker Application
+![main](https://user-images.githubusercontent.com/80214475/232490594-aa948307-3451-4ab8-8471-0e29fe9cbf43.png)
+
